@@ -18,3 +18,7 @@
 - deposit funds (fallback function)
 - withdrawal function 
 - permissions via modifier (owner and non-owner)
+
+### contract inheritance
+
+Ownable.sol (openzepplin import) -> Allowance.sol -> SharedWallet.sol
